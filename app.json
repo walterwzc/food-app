@@ -1,0 +1,17 @@
+{
+    "expo": {
+        "name": "沃尔特的美食App",
+        "icon": "./resource/icon/foodapp.png",
+        "sdkVersion": "25.0.0",
+        "version": "1.0.0",
+        "slug": "walterfoodapp-slug",
+        "ios": {
+            "bundleIdentifier": "com.walter.foodapp"
+        },
+        "android": {
+            "package": "com.walter.foodapp"
+        }
+    }
+}
+
+

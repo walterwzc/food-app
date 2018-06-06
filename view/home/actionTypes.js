@@ -1,0 +1,1 @@
+export const changeSelectedType = 'home/CHANGE_SELECTED_TYPE'

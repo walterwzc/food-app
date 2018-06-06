@@ -1,0 +1,54 @@
+{
+  "ret": true,
+  "data": {
+    "categories":[{
+        "id": "0001",
+        "title": "主食",
+        "imgUrl": "http://www.easyvoa.com/project-img/main.png"
+      }, {
+        "id": "0002",
+        "title": "蛋类",
+        "imgUrl": "http://www.easyvoa.com/project-img/egg.png"
+      },{
+        "id": "0003",
+        "title": "豆制品",
+        "imgUrl": "http://www.easyvoa.com/project-img/bean.png"
+      },{
+        "id": "0004",
+        "title": "谷类",
+        "imgUrl": "http://www.easyvoa.com/project-img/corn.png"
+      },{
+        "id": "0005",
+        "title": "水果",
+        "imgUrl": "http://www.easyvoa.com/project-img/fruit.png"
+      },{
+        "id": "0006",
+        "title": "肉类",
+        "imgUrl": "http://www.easyvoa.com/project-img/meat.png"
+      },{
+        "id": "0007",
+        "title": "奶类",
+        "imgUrl": "http://www.easyvoa.com/project-img/milk.png"
+      },{
+        "id": "0008",
+        "title": "菌菇",
+        "imgUrl": "http://www.easyvoa.com/project-img/mogu.png"
+      }, {
+        "id": "0009",
+        "title": "坚果",
+        "imgUrl": "http://www.easyvoa.com/project-img/nuts.png"
+      },{
+        "id": "0010",
+        "title": "油品",
+        "imgUrl": "http://www.easyvoa.com/project-img/oil.png"
+      },{
+        "id": "0011",
+        "title": "调料",
+        "imgUrl": "http://www.easyvoa.com/project-img/sause.png"
+      },{
+        "id": "0012",
+        "title": "蔬菜",
+        "imgUrl": "http://www.easyvoa.com/project-img/vagitable.png"
+      }]
+  }
+}
