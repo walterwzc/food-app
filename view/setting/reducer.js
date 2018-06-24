@@ -1,5 +1,6 @@
 import { SET_SWITCH_VALUE } from './actionTypes'
 
+// 开关的起始状态 是 off
 const defaultState = {
     isSwitched: false
 }

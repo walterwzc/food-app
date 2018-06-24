@@ -11,7 +11,7 @@ export default class List extends Component {
         headerTintColor: '#fff',
         headerTitleStyle: {
             fontWeight: 'bold'
-        },
+        }
     }
 
     componentDidMount() {
@@ -23,7 +23,6 @@ export default class List extends Component {
             <FlatList
                 // Pull to Refresh
                 onRefresh={this.props.handleListRefresh}
-
                 // 如果需要设置下拉刷新， 那么需要设置该值为 true
                 refreshing={this.props.refreshing}
                 data={this.props.list}
